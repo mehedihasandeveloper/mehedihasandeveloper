@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDz5qq6rbyfrAmAbxRay58OoYhYv5rTbIYD9t_4cwGryyQcZBnuh9S4IvuMeXEg7FJE7abvF-4IRlxD4zXhjFesth_2o2R-IkD38ayfkXgIPxNYVzgtenIdLmQRYfjpat_CwUwEmJUXiVg1IPTwfACwyp32qqMwv6OcFiTiwyntfU9IRhn_zkWJjS-uIwE/s1600/download%20%281%29.png")/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhs2023&label=Profile%20views&color=0e75b6&style=flat" alt="mhs2023" /> </p>
 
-- 🔭 I’m currently working on **Call_Center_Automation_CRM**
+- 🔭 I’m currently working on **Call_Center_Automation_CRM_Software**
 
 - 🌱 I’m currently learning **Vue, Python**
 
