@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Call_Center_Automation_CRM**
 
-- 🌱 I’m currently learning **Python, MERN**
+- 🌱 I’m currently learning **Python
 
 - 📝 I regularly write articles on [www.techbasicsexplained.com](www.techbasicsexplained.com)
 
