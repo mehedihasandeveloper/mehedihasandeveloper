@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on **Call_Center_Automation_CRM**
 
-- 🌱 I’m currently learning **Python
+- 🌱 I’m currently learning **Python**
 
 - 📝 I regularly write articles on [www.techbasicsexplained.com](www.techbasicsexplained.com)
 
-- 💬 Ask me about **Angular, Spring Boot, MySQL, Flutter**
+- 💬 Ask me about **Angular, Spring Boot, SQL, Flutter**
 
 - 📫 How to reach me **mh.ju1803@gmail.com**
 
